@@ -87,7 +87,7 @@ yarn build
 - ci/cd
 - unit tests
 
-## Learn more
+## Learn more here
 
 - [InterCloud Portal and API Documentation](https://doc.intercloud.io)
 - [Grafana documentation](https://grafana.com/docs/)
